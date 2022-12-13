@@ -1,0 +1,2 @@
+import exercitii
+exercitii.diceRoll()
